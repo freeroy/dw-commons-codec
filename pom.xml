@@ -10,7 +10,7 @@
 	<artifactId>dw-commons-codec</artifactId>
 	<packaging>jar</packaging>
 	<name>commons-codec</name>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<description>常见编码工具包，参考apache commons codec</description>
 	
 	<scm>
