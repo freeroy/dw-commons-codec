@@ -8,7 +8,7 @@
 		<relativePath>../dw-commons-parent/pom.xml</relativePath>
 	</parent>
 
-	<artifactId>dw-commons-codec-</artifactId>
+	<artifactId>dw-commons-codec</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-commons-codec</name>
 	<version>0.0.3-SNAPSHOT</version>
